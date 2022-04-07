@@ -5,7 +5,7 @@
 "use strict"
 
 /**
- * This function calculates area and perimeter of rectangle.
+ * This function calculates the area and perimeter of the rectangle.
  */
 function calcAreaClicked () {
   
